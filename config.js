@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'refuse :3',
     question:'Do you know that cute is a kind of power <3',
     btnReply: 'Answer',
-    Reply: 'No',
+    Reply: 'no',
     mess: '',
     messDesc: 'Because you have a superpower <33333333',
     btnAccept:  '<3',
