@@ -11,7 +11,6 @@ $(document).ready(function() {
 })
 
 function init(){
-  
     $('#title').text(CONFIG.title)
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
