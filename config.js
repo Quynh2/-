@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Do you know that cute is a kind of power <3',
     btnReply: 'Answer',
     Reply: '',
-    mess: 'Because you have a superpower <33333333',
-    messDesc: 'chị chóng khỏi ốm nhé ^.^.',
+    mess: '',
+    messDesc: 'Because you have a superpower <33333333',
     btnAccept:  '<3',
 }
